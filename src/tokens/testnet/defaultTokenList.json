@@ -175,6 +175,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["aToken"]
+    },
+    "0x4eff9FAE00FAEdC56d60B25e3337d9F07b1c10E0": {
+      "chainId": 2061,
+      "address": "0x4eff9FAE00FAEdC56d60B25e3337d9F07b1c10E0",
+      "symbol": "BEE",
+      "name": "Bee Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bee.png",
     }
   },
   "gaugeMap": {},

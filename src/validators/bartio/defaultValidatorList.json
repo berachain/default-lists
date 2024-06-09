@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
-    }    
+    },
+    {
+      "id": "0x7A9Ba30e544d2b6F1cD11709e9F0a5C57A779e94",
+      "logoURI": "https://raw.githubusercontent.com/1XP-Inc/resources/main/CI/logo/png/1XP_Logo_Symbol_Transparent.png",
+      "name": "1XP",
+      "description": "We always ensure that our actions are transparent and can be verified as truthful.",
+      "website": "https://www.1xp.com",
+      "twitter": "https://x.com/1XP_Inc"
+    }
   ]
 }

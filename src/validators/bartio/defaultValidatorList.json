@@ -168,6 +168,14 @@
     "description": "Supporting Blockchain Infrastructure",
     "website": "https://provalidator.com",
     "twitter": "https://x.com/Provalidator"
+    },
+		{
+      "id": "0x23A3f18cFEF4625E3fBe5850E7Ac33E8F0f6E20c",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/simplystaking.png",
+      "name": "SimplyStaking",
+      "description": "Simply Staking runs highly reliable infrastructure in our own datacentre in Malta, built with the aim of supporting the growth of the blockchain ecosystem",
+      "website": "https://simplystaking.com",
+      "twitter": "https://x.com/SimplyStaking"
     }
   ]
 }

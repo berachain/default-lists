@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0x447B00FF9F40725C91BBb159068Be136F1dbb434",
+      "logoURI": "https://www.meria.com/images/branding/logo-line-color.svg",
+      "name": "Meria",
+      "description": "Meria is an institutional-grade staking service provider running blockchain infrastructure on more than +35 networks.",
+      "website": "https://meria.com",
+      "twitter": "https://x.com/Meria_Finance"
     }    
   ]
 }

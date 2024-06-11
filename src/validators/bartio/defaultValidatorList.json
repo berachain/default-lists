@@ -758,6 +758,14 @@
       "description": "Secure Network With Institutional Grade Solution",
       "website": "https://contributiondao.com",
       "twitter": "https://x.com/contributedao"
+    },
+    {
+      "id": "0xb38eefa932aea6468aebf42320163c497104b0bd",
+      "logoURI": "https://pbs.twimg.com/profile_images/1744658954209079296/zk9lMaji_400x400.png",
+      "name": "Moni",
+      "description": "Your good neighbourhood validator by Moni. Moni is an ecosystem of analytical tools and a community of researchers, investors, and degens.",
+      "website": "https://getmoni.io/",
+      "twitter": "https://x.com/getmoni_io"
     }
   ]
 }

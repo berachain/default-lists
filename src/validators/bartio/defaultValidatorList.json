@@ -782,6 +782,14 @@
       "description": "One of the largest Japanese game publisher.As pioneers in the creation of entertainment using new technologies, gumi will continue to deliver surprises and excitement to the world.Creating a new business ecosystem through decentralization and capitalization of digital data.",
       "website": "https://gu3.co.jp/en/blockchain/",
       "twitter": "https://x.com/gumi_oshi3_en"
+    },
+    {
+      "id": "0x75F7af8D2A35de0395ee126FFd74970d10484e5C",
+      "logoURI": "https://raw.githubusercontent.com/empatim/default-lists/main/src/assets/punq.png",
+      "name": "punq",
+      "description": "Lets Rock - 7/24 non-stop staking services and solutions",
+      "website": "https://www.punq.info/",
+      "twitter": "https://twitter.com/punq1t"
     }
   ]
 }

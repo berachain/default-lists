@@ -777,7 +777,7 @@
     },
     {
       "id": "0x35DaAEB5B592d963D6B3b5f2f7EB71e259C96f98",
-      "logoURI": "https://gumi-logo.s3.ap-northeast-1.amazonaws.com/images.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/gumi.png",
       "name": "gumi",
       "description": "One of the largest Japanese game publisher.As pioneers in the creation of entertainment using new technologies, gumi will continue to deliver surprises and excitement to the world.Creating a new business ecosystem through decentralization and capitalization of digital data.",
       "website": "https://gu3.co.jp/en/blockchain/",

@@ -90,7 +90,7 @@
       "name": "Tether USD Coin",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png?1696501661",
-      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
+      "tags": ["stablecoin", "collateral", "featured"]
     },
     {
       "chainId": 80084,
@@ -99,7 +99,7 @@
       "name": "Decentralized USD Coin",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/9956/small/Badge_Dai.png?1696509996",
-      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
+      "tags": ["stablecoin", "collateral", "featured"]
     },
     {
       "chainId": 80084,

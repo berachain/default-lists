@@ -806,6 +806,14 @@
       "description": "Lets Rock - 7/24 non-stop staking services and solutions",
       "website": "https://www.punq.info/",
       "twitter": "https://twitter.com/punq1t"
+    },
+    {
+    "id": "0x2CA6d18515A9c25424F7391C0d2eDac5bBC5dDD7",
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/snappy-logo.png",
+    "name": "Snappy Labs",
+    "description": "High quality validation and consensus protocol research.",
+    "website": "https://snappylabs.org",
+    "twitter": "https://x.com/snappypayments"
     }
   ]
 }

@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x2c11C4C97ca866d64CC09Ea2dcD76f2D2EC6Ae55",
+      "logoURI": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/moniker/cosmosvaloper1lzhlnpahvznwfv4jmay2tgaha5kmz5qxerarrl.png",
+      "name": "Citadel.one",
+      "description": "Citadel.one is a multi-asset non-custodial staking platform that lets anyone become a part of decentralized infrastructure and earn passive income. Stake with our nodes or any other validator across multiple networks in a few clicks.",
+      "website": "https://citadel.one",
+      "twitter": "https://twitter.com/CitadelDAO"
+    },
+    {
       "id": "0x602b08F34919D3aa107c481DBAbF11Fb76B10BB9",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bwarelabs.png",
       "name": "BwareLabs",
@@ -45,8 +53,8 @@
       "id": "0x7A9Ba30e544d2b6F1cD11709e9F0a5C57A779e94",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/1xp.png",
       "name": "1XP",
-      "description": "We always ensure that our actions are transparent and can be verified as truthful.",
-      "website": "https://www.1xp.com",
+      "description": "Join us on the always fun 1XP Universe Discord. We also offer a $BERA Faucet service.",
+      "website": "https://discord.gg/VMd7UhMmtX",
       "twitter": "https://x.com/1XP_Inc"
     },
     {
@@ -322,7 +330,7 @@
       "twitter": "https://x.com/PierTwo_com"
     },
     {
-      "id": "0x83288B99CE00064724D65579AB90A9415ED2C914",
+      "id": "0xB4198e19B7370d199d928A479D72D5D3c043DC38",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BCW.png",
       "name": "BCW",
       "description": "BCW Group is an enterprise technology firm & venture studio dedicated to building Web3 infrastructure & applications that connect and interact with the on-demand digital universe.",
@@ -784,14 +792,6 @@
       "twitter": "https://x.com/getmoni_io"
     },
     {
-      "id": "0x71c6F418E2f91539409018489413dFb88A770BCa",
-      "logoURI": "https://raw.githubusercontent.com/Huginntech/default-lists/main/src/assets/huginn.png",
-      "name": "Huginn",
-      "description": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain.",
-      "website": "https://huginn.tech/",
-      "twitter": "https://x.com/HuginnStake"
-    },
-    {
       "id": "0x35DaAEB5B592d963D6B3b5f2f7EB71e259C96f98",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/gumi.png",
       "name": "gumi",
@@ -800,6 +800,7 @@
       "twitter": "https://x.com/gumi_oshi3_en"
     },
     {
+<<<<<<< main
       "id": "0x75F7af8D2A35de0395ee126FFd74970d10484e5C",
       "logoURI": "https://raw.githubusercontent.com/empatim/default-lists/main/src/assets/punq.png",
       "name": "punq",
@@ -814,6 +815,46 @@
     "description": "High quality validation and consensus protocol research.",
     "website": "https://snappylabs.org",
     "twitter": "https://x.com/snappypayments"
+=======
+      "id": "0x1e7e272fc62cD56cC3d8Fa29e6FF0831F6B91F1c",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/CoinSummer.png",
+      "name": "CoinSummerLabs",
+      "description": "Backed by crypto-native degens, CoinSummer is a trusted liquidity provider, staking validator, and AVS operator supporting the crypto and DeFi evolution.",
+      "website": "https://coinsummer.io",
+      "twitter": "https://twitter.com/CoinSummerLabs"
+    },
+    {
+      "id": "0x8b59F2F0a9Fc5A994756F5dc76f16d047434C413",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/rockawayxinfra.png",
+      "name": "RockawayX Infra",
+      "description": "RockawayX Infra is an institution-grade bare-metal staking operator",
+      "website": "https://rockawayx.com/infrastructure",
+      "twitter": "https://x.com/RockawayX_Infra"
+    },
+    {
+      "id": "0x17aa924282bf0Fa76CF3e80eC3EaA2a54C649186",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hashkey.png",
+      "name": "HashKey Cloud",
+      "description": "Cloud for WEB3 More Than Staking",
+      "website": "https://www.hashkey.cloud/",
+      "twitter": "https://x.com/HashKeyCloud"
+    },
+    {
+      "id": "0x93174B2DaD595F35582cC62FCBf96b86709863D5",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakefish.png",
+      "name": "stakefish",
+      "description": "We are the leading staking service provider for blockchain projects. Join our community to help secure networks and earn rewards. Stake. Earn. Relax.",
+      "website": "https://stake.fish/",
+      "twitter": "https://twitter.com/stakefish"
+    },
+    {
+      "id": "0x93eDebDf3Cab2628cbB4Bf0B7C65d336348414d4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hyperblocks.jpg",
+      "name": "Hyperblocks",
+      "description": "Secure the network and earn rewards with Hyperblocks.pro, one of the first companies in the world fully focused on Proof Of Stake protocols",
+      "website": "https://hyperblocks.pro/",
+      "twitter": "https://x.com/hyper_blocks"
+>>>>>>> main
     }
   ]
 }

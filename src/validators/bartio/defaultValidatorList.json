@@ -3,7 +3,7 @@
   "validators": [
     {
       "id": "0x99fC13a5b46491D84494165FFaa540fFE7AB78D1",
-      "logoURI": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/brand-assets/cdao_logo_128x128.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ContributionDAO.png",
       "name": "ContributionDAO",
       "description": "Secure Network With Institutional Grade Solution",
       "website": "https://contributiondao.com",

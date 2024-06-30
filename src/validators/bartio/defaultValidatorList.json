@@ -10,6 +10,14 @@
       "twitter": "https://twitter.com/KodiakFi"
     },
     {
+      "id": "0x99fC13a5b46491D84494165FFaa540fFE7AB78D1",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ContributionDAO.png",
+      "name": "ContributionDAO",
+      "description": "Secure Network With Institutional Grade Solution",
+      "website": "https://contributiondao.com",
+      "twitter": "https://x.com/contributedao"
+    },
+    {
       "id": "0x2c11C4C97ca866d64CC09Ea2dcD76f2D2EC6Ae55",
       "logoURI": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/moniker/cosmosvaloper1lzhlnpahvznwfv4jmay2tgaha5kmz5qxerarrl.png",
       "name": "Citadel.one",
@@ -713,7 +721,7 @@
       "twitter": "https://x.com/nodeguardians"
     },
     {
-      "id": "0x24A6EE555CD835C43992008C35DFAAB3323BAB21",
+      "id": "0x6bcBe50912a51c4d956444CCbd2F3e9dAA217CC1",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/chorus_one.svg",
       "name": "Chorus One",
       "description": "Secure Berachain and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
@@ -784,7 +792,7 @@
       "twitter": "https://twitter.com/RealBlockPI"
     },
     {
-      "id": "0xD3CF1134D44D9E8555050AFFD01DFD298F58FABC",
+      "id": "0x63Ba2DD43EA2DD8e6C8B9dfEf8940d4bFd4682D3",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/OKXEarn.png",
       "name": "OKX Earn",
       "description": "OKX Earn serves as a one-stop shop for all the decentralised earning options available on the OKX platform and we are the leading staking service provider for blockchain projects",
@@ -846,6 +854,14 @@
       "description": "Secure the network and earn rewards with Hyperblocks.pro, one of the first companies in the world fully focused on Proof Of Stake protocols",
       "website": "https://hyperblocks.pro/",
       "twitter": "https://x.com/hyper_blocks"
+    },
+    {
+      "id": "0xB791098b00AD377B220f91d7878d19e441388eD8",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/TTT.png",
+      "name": "TTT 🇻🇳",
+      "description": " Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market. ",
+      "website": "https://tienthuattoan.com",
+      "twitter": "https://twitter.com/TTTcapital"
     }
   ]
 }

@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0xeA64C51a82a2ECAC2544740B2d1798AD77d4D133",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/cryptomind.jpg",
+      "name": "cryptomind",
+      "description": "Cryptomind Group, Thailand’s premier ecosystem builder, comprises a diverse portfolio of ventures: Cryptomind Media, operating “Bitcoin Addict” and organizing Thailand Blockchain Week; Cryptomind Advisory, offering SEC-licensed crypto research; Merkle Capital, providing digital asset fund services for both individuals and institutions; and Cryptomind Lab, incubating global-scale projects like Zentry and providing Web3 strategy consulting.",
+      "website": "https://cryptomind.group",
+      "twitter": "https://x.com/cryptomindgroup"
+    },
+    {
       "id": "0x2c11C4C97ca866d64CC09Ea2dcD76f2D2EC6Ae55",
       "logoURI": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/moniker/cosmosvaloper1lzhlnpahvznwfv4jmay2tgaha5kmz5qxerarrl.png",
       "name": "Citadel.one",

@@ -139,7 +139,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x8Ce5C1c42CD58B7aE61512790e514a82d84375Ed",
+      "address": "0xCA97345aD6A91176429CAF5aa2896732cbF66EBd",
       "symbol": "aWETH",
       "name": "WETH aToken",
       "decimals": 18,

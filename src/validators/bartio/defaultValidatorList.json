@@ -998,6 +998,14 @@
       "description": "Twinstake is an institutional-grade, non-custodial staking provider designed and built in collaboration with leaders in the digital assets space. The platform offers industry leading performance, institutional-grade security and uncompromising Know Your Client (KYC) procedures.",
       "website": "https://twinstake.io",
       "twitter": "https://x.com/twinstake_io"
+    },
+    {
+      "id": "0xd4963136Cd28CC1c3213F0499A62103171f3468B",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/huginn.png",
+      "name": "Huginn",
+      "description": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain.",
+      "website": "https://huginn.tech/",
+      "twitter": "https://x.com/HuginnStake"  
     }
   ]
 }

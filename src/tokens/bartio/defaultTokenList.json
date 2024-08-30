@@ -163,7 +163,16 @@
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bhoney.png",
       "tags": ["supply"]
-    }
+    },
+    {
+      "chainId": 80084 ,
+      "address": "0xb9f58e6fAD8674505320e3Fa9b13261BB2ABC37C",
+      "symbol": "BOBO",
+      "name": "BOBO the BERA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30388/standard/bobocoingeckologo.png?1723171516",
+      "tags": ["featured", "deposit"]
+  }
   ],
   "version": {
     "major": 1,

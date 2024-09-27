@@ -103,7 +103,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x286F1C3f0323dB9c91D1E8f45c8DF2d065AB5fae",
+      "address": "0x2577D24a26f8FA19c1058a8b0106E2c7303454a4",
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
@@ -112,7 +112,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x6E1E9896e93F7A71ECB33d4386b49DeeD67a231A",
+      "address": "0xE28AfD8c634946833e89ee3F122C06d7C537E8A8",
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
@@ -139,7 +139,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x8Ce5C1c42CD58B7aE61512790e514a82d84375Ed",
+      "address": "0xCA97345aD6A91176429CAF5aa2896732cbF66EBd",
       "symbol": "aWETH",
       "name": "WETH aToken",
       "decimals": 18,
@@ -148,7 +148,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x0ddb38F7D473e8040985Fa3B4116FDeEF89778bc",
+      "address": "0x1807d3462dD7DC32907d5f10f22d8AeE80367316",
       "symbol": "aWBTC",
       "name": "WBTC aToken",
       "decimals": 8,
@@ -163,6 +163,15 @@
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bhoney.png",
       "tags": ["supply"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xfc5e3743E9FAC8BB60408797607352E24Db7d65E",
+      "symbol": "tHPOT",
+      "name": "Test Honeypot Finance",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera-tpot.jpg",
+      "tags": ["featured"]
     }
   ],
   "version": {

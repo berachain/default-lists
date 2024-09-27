@@ -31,7 +31,7 @@
       "receiptTokenAddress": "0xE5A2ab5D2fb268E5fF43A5564e44c3309609aFF9",
       "vaultAddress": "0xE5A2ab5D2fb268E5fF43A5564e44c3309609aFF9",
       "name": "WBERA-YEET",
-      "logoURI": "https://www.yeetit.xyz/yeetie.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/yeet-logo.png",
       "product": "YEET",
       "url": "https://yeetit.xyz"
     },

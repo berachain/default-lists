@@ -28,6 +28,14 @@
   ],
   "gauges": [
     {
+      "receiptTokenAddress": "0xE5A2ab5D2fb268E5fF43A5564e44c3309609aFF9",
+      "vaultAddress": "0xE5A2ab5D2fb268E5fF43A5564e44c3309609aFF9",
+      "name": "WBERA-YEET",
+      "logoURI": "https://www.yeetit.xyz/yeetie.png",
+      "product": "YEET",
+      "url": "https://yeetit.xyz"
+    },
+    {
       "receiptTokenAddress": "0x1339503343be5626B40Ee3Aee12a4DF50Aa4C0B9",
       "vaultAddress": "0x2E8410239bB4b099EE2d5683e3EF9d6f04E321CC",
       "name": "VDHONEY",
@@ -83,14 +91,6 @@
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera-tpot.jpg",
       "product": "HONEYPOT FINANCE",
       "url": "https://honeypotfinance.xyz"
-    },
-    {
-      "receiptTokenAddress": "0xE5A2ab5D2fb268E5fF43A5564e44c3309609aFF9",
-      "vaultAddress": "0xE5A2ab5D2fb268E5fF43A5564e44c3309609aFF9",
-      "name": "WBERA-YEET",
-      "logoURI": "https://www.yeetit.xyz/yeetie.png",
-      "product": "YEET",
-      "url": "https://yeetit.xyz"
     }
   ],
   "version": {

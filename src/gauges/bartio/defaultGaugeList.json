@@ -2,6 +2,12 @@
   "name": "Berachain Bartio Default Gauge List",
   "products": [
     {
+      "name": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak.jpg",
+      "url": "https://www.kodiak.finance",
+      "description": "Native Liquidity Hub"
+    },
+    {
       "name": "HONEY",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "url": "https://bartio.honey.berachain.com",

@@ -172,7 +172,16 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/tHpot.png",
       "tags": ["featured"]
-    }
+    },
+    {
+      "chainId": 80084,
+      "address": "0x12Afd7A3324B689e32eEa71902DCbA5ED72Ee67E",
+      "symbol": "zHONEY",
+      "name": "Zeru Bera Bartio Market HONEY",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
+      "tags": ["Supply"]
+  }
   ],
   "version": {
     "major": 1,

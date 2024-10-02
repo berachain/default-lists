@@ -8,6 +8,12 @@
       "description": "Native Liquidity Hub"
     },
     {
+      "name": "YEET",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/yeet-logo.png",
+      "url": "https://yeetit.xyz",
+      "description": "Home of the most Yeetarded products in the Berachain ecosystem"
+    },
+    {
       "name": "HONEY",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "url": "https://bartio.honey.berachain.com",

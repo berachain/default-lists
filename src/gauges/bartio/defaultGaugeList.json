@@ -113,6 +113,14 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera-thpot.jpg",
       "product": "HONEYPOT FINANCE",
       "url": "https://honeypotfinance.xyz"
+    },
+    {
+      "receiptTokenAddress": "0x3E1FfDD1AD1e4774693CBCCdF9C737De8713D984",
+      "vaultAddress": "0x3E1FfDD1AD1e4774693CBCCdF9C737De8713D984",
+      "name": "ZERU-HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru.png",
+      "product": "ZERU FINANCE",
+      "url": "https://zeru.finance"
     }
   ],
   "version": {

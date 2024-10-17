@@ -42,6 +42,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru.png",
       "url": "https://zeru.finance",
       "description": "Full-stack DeFi marketplace that makes looping easy and efficient; powered by a 100% onchain, decentralized credit infrastructure."
+    },
+    {
+      "name": "BeraLaunch",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/blau.png",
+      "url": "https://beralaunch.com",
+      "description": "The ultimate launchpad for investors and promising startups. BeraLaunch is the first launchpad that transforms illiquid vesting contracts into liquid vNFTs."
     }
   ],
   "gauges": [
@@ -165,6 +171,14 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru-honey.png",
       "product": "ZERU",
       "url": "https://zeru.finance"
+    },
+    {
+      "receiptTokenAddress": "0x7d350B479d56ee8879c1361f478Fb2D6bF3b778b",
+      "vaultAddress": "0x96aD477c75Df40717228B203be2b3A47E39B50BD",
+      "name": "HONEY-BLAU",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/blau.png",
+      "product": "BeraLaunch",
+      "url": "https://beralaunch.com"
     }
   ],
   "version": {

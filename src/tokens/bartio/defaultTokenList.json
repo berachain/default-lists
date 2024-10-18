@@ -39,6 +39,33 @@
 
   "tokens": [
     {
+    "chainId": 80084,
+    "address": "0xebbDbc1d24551A7DA97Eb0Bc0f9328B6071EC14c",
+    "symbol": "GME_2508",
+    "name": "Gamestop Corporation",
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/GME.png",
+    "tags": 
+    },
+    {
+    "chainId": 80084,
+    "address": "0x5C44491c8Bccb07a85Dee9C453B238dA2e4B84e1",
+    "symbol": "IGME_2508",
+    "name": "iGameStop Corporation",
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/iGME.png",
+    "tags": []
+    },
+    {
+    "chainId": 80084,
+    "address": "0xcE7DB5cbA54fa37597c6ECcC91c46e3FB7812390",
+    "symbol": "TWIN",
+    "name": "TWIN Protocol Token",
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/TWIN.png",
+    "tags": []
+    },
+    {
       "chainId": 80084,
       "address": "0xB43fd1dC4f02d81f962E98203b2cc4FD9E342964",
       "symbol": "PAW",

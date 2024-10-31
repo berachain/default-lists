@@ -165,6 +165,14 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru-honey.png",
       "product": "ZERU",
       "url": "https://zeru.finance"
+    },
+    {
+      "receiptTokenAddress": "0x2405296f156f3e5a65fb967b153fe58bf2c6eccf",
+      "vaultAddress": "0xac9ca566459709931Bc869B43364b7445eaa4696",
+      "name": "NOME-STABLE-LP",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NOME.png",
+      "product": "NOME",
+      "url": "https://nome.gg"
     }
   ],
   "version": {

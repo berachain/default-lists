@@ -40,6 +40,15 @@
   "tokens": [
     {
       "chainId": 80084,
+      "address": "0x0C2553919748093b0760EA825C85dc5a72142932",
+      "symbol": "pHONEY-WBER",
+      "name": "Zoo pHONEY-WBERA-LP",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/pHONEY-WBER.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0xB43fd1dC4f02d81f962E98203b2cc4FD9E342964",
       "symbol": "PAW",
       "name": "Paw",

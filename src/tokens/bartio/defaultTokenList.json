@@ -41,10 +41,10 @@
     {
       "chainId": 80084,
       "address": "0x556b758AcCe5c4F2E1B57821E2dd797711E790F4",
-      "symbol": "wbHONEY",
+      "symbol": "weHONEY",
       "name": "webera-vault-honey",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/wbHONEY.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/weHONEY.png",
       "tags": ["featured"]
     },
     {

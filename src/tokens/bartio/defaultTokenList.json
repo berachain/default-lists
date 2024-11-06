@@ -226,6 +226,42 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/burr.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xcaf7072631EA338eC37d8f68a5fDB9A8a96d572A",
+      "symbol": "HOLD",
+      "name": "Holdstation",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hold.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xb82aa9bba5b9A02B53BE9F9a048c7391eC7da600",
+      "symbol": "hsHONEY",
+      "name": "hsHONEY",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hsHONEY.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x9c1e26c5f666eb99cce6795fd0892e50929e242d",
+      "symbol": "NOME",
+      "name": "NOME",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NOME.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x9c9ab67191faae287ca5e33af72bc2868a0f0498",
+      "symbol": "USDbr",
+      "name": "USDbr",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/USDbr.png",
+      "tags": ["featured"]
     },{
       "chainId": 80084,
       "address": "0xb18CEC4160E5310e79AEf0d06a8df223A35599cD",

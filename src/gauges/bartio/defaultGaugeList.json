@@ -2,6 +2,12 @@
   "name": "Berachain Bartio Default Gauge List",
   "products": [
     {
+      "name": "BurrBear",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/burrbear.png",
+      "url": "https://app.burrbear.io",
+      "description": "Explore DeFi liquidity pools or create your own. Provide liquidity to accumulate yield from swap fees while retaining your token exposure as prices move."
+    },
+    {
       "name": "Beraborrow",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/beraborrow.png",
       "url": "https://www.beraborrow.com",
@@ -48,9 +54,31 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/blau.png",
       "url": "https://beralaunch.com",
       "description": "The ultimate launchpad for investors and promising startups. BeraLaunch is the first launchpad that transforms illiquid vesting contracts into liquid vNFTs."
+    },
+    {
+      "name": "Junky Ursas",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
+      "url": "https://junkyursas.com",
+      "description": "Junky Ursas is the premier GambleFi protocol on Berachain. We are building fun onchain games with ability to provide liquidity to the house!"
     }
   ],
   "gauges": [
+    {
+      "receiptTokenAddress": "0xf74a682b45F488DF08a77Dc6aF07364e94e4ED98",
+      "vaultAddress": "0x3f4fe6723AfbB97C9Cc51e08A5d266A96f631a9D",
+      "name": "HONEY-STGUSDC-NECT",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey-stgusdc-nect.png",
+      "product": "BurrBear",
+      "url": "https://app.burrbear.io"
+    },
+    {
+      "receiptTokenAddress": "0xB67D60fc02E0870EdDca24D4fa8eA516c890152b",
+      "vaultAddress": "0xEF55f90b05f719a2760A70cB1462Ff00B90E28C1",
+      "name": "uniBTC-WBTC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/unibtc-wbtc.jpg",
+      "product": "Kodiak",
+      "url": "https://app.kodiak.finance/#/liquidity/islands/0xb67d60fc02e0870eddca24d4fa8ea516c890152b?chain=berachain_bartio"
+    },
     {
       "receiptTokenAddress": "0xa51afAF359d044F8e56fE74B9575f23142cD4B76",
       "vaultAddress": "0x1992b26E2617928966B4F8e8eeCF41C6e7A77010",
@@ -173,12 +201,37 @@
       "url": "https://zeru.finance"
     },
     {
+
       "receiptTokenAddress": "0x7d350B479d56ee8879c1361f478Fb2D6bF3b778b",
       "vaultAddress": "0x96aD477c75Df40717228B203be2b3A47E39B50BD",
       "name": "HONEY-BLAU",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/blau.png",
       "product": "BeraLaunch",
       "url": "https://beralaunch.com"
+    },
+    {
+      "receiptTokenAddress": "0x2405296f156f3e5a65fb967b153fe58bf2c6eccf",
+      "vaultAddress": "0xac9ca566459709931Bc869B43364b7445eaa4696",
+      "name": "NOME-STABLE-LP",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NOME.png",
+      "product": "NOME",
+      "url": "https://nome.gg"
+    },
+    {
+      "receiptTokenAddress": "0xdCeBAf53b18986bdE2aEb400a9acC3341Bb6ce3A",
+      "vaultAddress": "0x6582414E830d91C8016C10ceD72157106F908145",
+      "name": "juJNKY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
+      "product": "Junky Ursas",
+      "url": "https://junkyursas.com"
+    },
+    {
+      "receiptTokenAddress": "0xfcA4e833cb73d75a0EC64B250F05BEf71810CfD0",
+      "vaultAddress": "0x6c693bB44dF70F6AF836296e3D55DF47F7973345",
+      "name": "juBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/jubera.png",
+      "product": "Junky Ursas",
+      "url": "https://junkyursas.com"
     }
   ],
   "version": {

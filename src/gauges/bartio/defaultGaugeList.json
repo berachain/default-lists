@@ -217,6 +217,14 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/jubera.png",
       "product": "Junky Ursas",
       "url": "https://junkyursas.com"
+    },
+    {
+      "receiptTokenAddress": "0xE578502Aa99Bc89CD07E70c995e1AF89D5A129d5",
+      "vaultAddress": "0x6F2f268B8D7A47FFa5e40177A353e3fC2cfe10C8",
+      "name": "Berally-Pass",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/brly-st.png",
+      "product": "Berally",
+      "url": "https://berally.io"
     }
   ],
   "version": {

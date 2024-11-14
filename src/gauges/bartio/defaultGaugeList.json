@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Default Gauge List",
   "products": [
     {
+      "address": "0xd351940fd17c33BB18B6fA7982e376aa8f3d29ab",
+      "name": "DIRAC-HONEY",
+      "logoURI": "https://dirac.finance/logos/dirac-logos/dirac-honey.jpeg",
+      "url": "https://bartio.station.berachain.com/gauge/0xd351940fd17c33BB18B6fA7982e376aa8f3d29ab",
+      "categoryName": "Kodiak Liquidity Pool",
+      "categoryIcon": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak.jpg"
+  },
+    {
       "name": "BurrBear",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/burrbear.png",
       "url": "https://app.burrbear.io",

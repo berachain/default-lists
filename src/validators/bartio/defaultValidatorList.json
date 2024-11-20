@@ -2,6 +2,214 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0xBd2d005C336d8493C578Bb8427A0C28E0236114F",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/auros.png",
+      "name": "Auros",
+      "description": "Auros - Making Digital Markets Liquid",
+      "website": "https://auros.global",
+      "twitter": "https://x.com/auros_global"
+    },
+    {
+      "id": "0xBBBBD949408332CB50B9f3cb47460b9Faa068758",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BeraHome.jpg",
+      "name": "BeraHome",
+      "description": "BeraHome is a Chinese-specific news hub and community dedicated to bringing the Berachain ecosystem updates to the greater Chinese-speaking regions. We aim to become the bridge connecting the wider Berachain eco with the Chinese market via a wide scope of research, engagements, and incubation services, ultimately increasing the influence of Berachain in APAC.",
+      "website": "https://berahome.substack.com",
+      "twitter": "https://x.com/0xBeraHome"
+    },
+    {
+      "id": "0xddE659DC0dfD9E9598268C7dEe6aF780be0aAf6e",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BeraBucks.png",
+      "name": "BeraBucks",
+      "description": "Ooga Booga. We are Berachain’s premier gaming focused validator, giving you access to the best games Web3 has to offer.",
+      "website": "https://www.berabucks.com",
+      "twitter": ""
+    },
+    {
+      "id": "0xd25F258EEBf4e49dF154eF0dA56E6bBEF9514168",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Nansen.png",
+      "name": "Nansen",
+      "description": "Nansen is a leading on-chain analytics platform founded in 2020, and is now one of the most trusted names in crypto, serving traders and institutions. Disclaimer: delegating comes with slashing risks",
+      "website": "https://nansen.ai",
+      "twitter": "https://x.com/nansen_ai"
+    },
+    {
+      "id": "0x79Aac6a60C5EeDB512443F6B8D237F6CfbC6ce00",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Neuler.png",
+      "name": "Neuler",
+      "description": "Accelerating decentralization",
+      "website": "https://neuler.xyz",
+      "twitter": ""
+    },
+    {
+      "id": "0x6aB7C955d64Dd7A1fbAffD9DC27E8425Ddb7441b",
+      "logoURI": "https://x.com/Beranames/photo",
+      "name": "Beranames",
+      "description": "Official Name Service of @Berachain",
+      "website": "https://www.beranames.com",
+      "twitter": "https://x.com/Beranames"
+    },
+    {
+      "id": "0xd4963136Cd28CC1c3213F0499A62103171f3468B",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/huginn.png",
+      "name": "Huginn",
+      "description": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain.",
+      "website": "https://huginn.tech/",
+      "twitter": "https://x.com/HuginnStake"
+    },
+    {
+      "id": "0x123B9D8D186003b566c93e960c6705A968C0B664",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/foundry.png",
+      "name": "Foundry",
+      "description": "Foundry works to empower a decentralized infrastructure. We are protocol agnostic and seek to support like minded blockchain entrepreneurs who share our mission to advance the industry",
+      "website": "https://foundrydigital.com",
+      "twitter": "https://x.com/FoundryServices"
+    },
+    {
+      "id": "0x29ECe5efcae11206474b16F29bb7C73B3F33cF6e",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
+      "name": "Ghost",
+      "description": "Ghost is building the next-gen blockchain indexing stack with GhostLogs and GhostGraph. GhostGraph is live on Berachain and lets developers create APIs for smart contracts. Stay in Solidity and create blazingly fast subgraphs",
+      "website": "https://tryghost.xyz",
+      "twitter": "https://x.com/0xGhostLogs"
+    },
+    {
+      "id": "0xF6c8e5f65ea829913D37C275d2DB60e8FD36d3a1",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/upnodewhitebg.png",
+      "name": "Upnode",
+      "description": "Professionally managed institutional grade blockchain infrastructure provider.",
+      "website": "https://upnode.org",
+      "twitter": "https://x.com/upnodeIntern"
+    },
+    {
+      "id": "0x1F64DaE2F11E5D385b811e964D2D72db5902Af6b",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/figment.png",
+      "name": "Figment",
+      "description": "",
+      "website": "https://figment.io/",
+      "twitter": "https://twitter.com/Figment_io"
+    },
+    {
+      "id": "0x9937642630228CA5d3b212e75b25dE2f1940d2D1",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/alienkong.png",
+      "name": "0xak",
+      "description": "0xak node",
+      "website": "",
+      "twitter": "https://twitter.com/0xak_"
+    },
+    {
+      "id": "0x9fc867Eb3B841ec3068B768eBc2B03dd95A0Ab6F",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/fnl.png",
+      "name": "FNL",
+      "description": "FNL provides institutional-grade blockchain infrastructure and services.",
+      "website": "https://fnl.qa/",
+      "twitter": ""
+    },
+    {
+      "id": "0x24DD6bfe9036c28AeEB85BfD576EEC5542991591",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hyperblocks.jpg",
+      "name": "Hyperblocks",
+      "description": "Secure the network and earn rewards with Hyperblocks.pro, one of the first companies in the world fully focused on Proof Of Stake protocols",
+      "website": "https://hyperblocks.pro/",
+      "twitter": "https://x.com/hyper_blocks"
+    },
+    {
+      "id": "0xb9a344c2138E555B73064Fa8349D8CE68f6E5582",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/benmo.png",
+      "name": "Benmo",
+      "description": "BenMo Block is a DeFi community in the Asia-Pacific region, with many advanced blockchain investors actively involved.",
+      "website": "https://www.benmo.io",
+      "twitter": "https://x.com/Super4DeFi"
+    },
+    {
+      "id": "0x208c27aA44ee2549F0a39e61483E18cC6bC99773",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/web3wizards.jpg",
+      "name": "Web3 Wizards x Symmetry",
+      "description": "Web3 Wizards help organizations succeed in the Web3 space. Symmetry is an SEA-focussed incubator working with global ecosystems to empower builders in SEA.",
+      "website": "https://web3wizards.xyz",
+      "twitter": "https://x.com/Web3WizardsLabs"
+    },
+    {
+      "id": "0x0eB8D197A58724Cf8b1046dFE0a9B9E116175051",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/dextrac.png",
+      "name": "DexTrac",
+      "description": "Providing critical infrastructure and analytics for various Web3 ecosystems is our mission.",
+      "website": "https://www.dextrac.com",
+      "twitter": "https://www.twitter.com/DexTracNode"
+    },
+    {
+      "id": "0x516e5a64adf705c4Bb17Ee0d0ab440d74346249B",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Caliber.png",
+      "name": "Caliber",
+      "description": "Caliber is a Web3 Venture Builder started by veteran web3 builders and aims to build the next generation of web3 startups with new founders. We consider ourselves a co-founder of each startup & work side-by-side with founders",
+      "website": "https://caliber.build",
+      "twitter": "https://x.com/CaliberBuild"
+    },
+    {
+      "id": "0xeA64C51a82a2ECAC2544740B2d1798AD77d4D133",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/cryptomind.jpg",
+      "name": "Cryptomind",
+      "description": "Cryptomind Group, Thailand’s premier ecosystem builder, comprises a diverse portfolio of ventures: Cryptomind Media, operating “Bitcoin Addict” and organizing Thailand Blockchain Week; Cryptomind Advisory, offering SEC-licensed crypto research; Merkle Capital, providing digital asset fund services for both individuals and institutions; and Cryptomind Lab, incubating global-scale projects like Zentry and providing Web3 strategy consulting.",
+      "website": "https://cryptomind.group",
+      "twitter": "https://x.com/cryptomindgroup"
+    },
+    {
+      "id": "0xA2B286a781233432204a573d6F40fbd2252cBBd4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/blockscape.png",
+      "name": "Blockscape",
+      "description": "Blockscape Finance AG is a Swiss company that provides enterprise-grade node operations for blockchains. We are running world-class infrastructure in multiple data centers across the globe.",
+      "website": "https://www.blockscape.network",
+      "twitter": "https://x.com/BlockscapeLab"
+    },
+    {
+      "id": "0x0eCBe62654622e14ae882B8c8c65C3f3F54eCcf9",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak.jpg",
+      "name": "Kodiak Finance",
+      "description": "Native Liquidity Hub",
+      "website": "https://www.kodiak.finance",
+      "twitter": "https://twitter.com/KodiakFi"
+    },
+    {
+      "id": "0x99fC13a5b46491D84494165FFaa540fFE7AB78D1",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ContributionDAO.png",
+      "name": "ContributionDAO",
+      "description": "Secure Network With Institutional Grade Solution",
+      "website": "https://contributiondao.com",
+      "twitter": "https://x.com/contributedao"
+    },
+    {
+      "id": "0x2c11C4C97ca866d64CC09Ea2dcD76f2D2EC6Ae55",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/citadelone.png",
+      "name": "Citadel.one",
+      "description": "Citadel.one is a multi-asset non-custodial staking platform that lets anyone become a part of decentralized infrastructure and earn passive income. Stake with our nodes or any other validator across multiple networks in a few clicks.",
+      "website": "https://citadel.one",
+      "twitter": "https://twitter.com/CitadelDAO"
+    },
+    {
+      "id": "0x602b08F34919D3aa107c481DBAbF11Fb76B10BB9",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bwarelabs.png",
+      "name": "BwareLabs",
+      "description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
+      "website": "https://bwarelabs.com/",
+      "twitter": "https://x.com/bwarelabs"
+    },
+    {
+      "id": "0xe868bE65C50b61E81A3fC5cB5A7916090B05eb2A",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/doubletop.png",
+      "name": "DOUBLETOP",
+      "description": "Your trusted security non-custodial validator. DOUBLETOP is Ukrainian crypto-oriented holding.",
+      "website": "https://doubletop.io/",
+      "twitter": "https://x.com/doubletop_io"
+    },
+    {
+      "id": "0x7e8d2356240A1F0e249e628b6964C6227a11d945",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ebunker.png",
+      "name": "Ebunker",
+      "description": "Ebunker is a leading node operator and blockchain infrastructure company.",
+      "website": "https://www.ebunker.io/",
+      "twitter": "https://twitter.com/ebunker_eth"
+    },
+    {
       "id": "0xd4516752CE743E7b0a264D2Db7F61F8e4444d9A6",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/snzpool.png",
       "name": "SNZPool",
@@ -21,8 +229,8 @@
       "id": "0x7A9Ba30e544d2b6F1cD11709e9F0a5C57A779e94",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/1xp.png",
       "name": "1XP",
-      "description": "We always ensure that our actions are transparent and can be verified as truthful.",
-      "website": "https://www.1xp.com",
+      "description": "Join us on the always fun 1XP Universe Discord. We also offer a $BERA Faucet service.",
+      "website": "https://discord.gg/VMd7UhMmtX",
       "twitter": "https://x.com/1XP_Inc"
     },
     {
@@ -234,7 +442,7 @@
       "twitter": ""
     },
     {
-      "id": "0x40495A781095932e2FC8dccA69F5e358711Fdd41",
+      "id": "0x34D023ACa5A227789B45A62D377b5B18A680BE01",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/beradrome.jpg",
       "name": "beradrome-x-thj",
       "description": "Joint validator of Beradrome and The Honey Jar. Delegate or stay poor",
@@ -298,7 +506,7 @@
       "twitter": "https://x.com/PierTwo_com"
     },
     {
-      "id": "0x83288B99CE00064724D65579AB90A9415ED2C914",
+      "id": "0xB4198e19B7370d199d928A479D72D5D3c043DC38",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BCW.png",
       "name": "BCW",
       "description": "BCW Group is an enterprise technology firm & venture studio dedicated to building Web3 infrastructure & applications that connect and interact with the on-demand digital universe.",
@@ -331,7 +539,7 @@
     },
     {
       "id": "0xFc81ADDEE6D47B1EFba13E4e2268064D4a3cD065",
-      "logoURI": "https://raw.githubusercontent.com/OriginStake/ogs-media/main/Logo/PNG/OriginStake_Logo_1.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/OriginStake.png",
       "name": "OriginStake",
       "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Berachain.",
       "website": "https://originstake.com",
@@ -434,7 +642,7 @@
       "twitter": "https://x.com/Provalidator"
     },
     {
-      "id": "0x6Ae5c02469F78E04e5dB3f03AeAc639797578fbe",
+      "id": "0x142E206186d582dF6CA2D7110a653054CDBAed51",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/node101.png",
       "name": "node101",
       "description": "We provide infrastructure services, host non-profit developer-focused events, and offer user-friendly products for you to make the most of distributed value. Building klein.run",
@@ -481,7 +689,7 @@
       "twitter": "https://www.twitter.com/whispernode"
     },
     {
-      "id": "0x8BC9CB4C51A7AC47DEB10AE309DDB14709B124B8",
+      "id": "0x6c2917368A4d1A9d3edfe2EbDEc97C7E23e5a477",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/infstones.png",
       "name": "InfStones",
       "description": "Easily launch and manage nodes, stake PoS tokens, use our API, and more.",
@@ -499,7 +707,7 @@
     {
       "id": "0xbf5c95B4C2BDc9A75EeA876a956A97Bf13c21106",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/lavenderfive.png",
-      "name": " Lavender.Five Nodes 🐝",
+      "name": "Lavender.Five Nodes 🐝",
       "description": "Fortifying crypto networks with Horcrux security, slash insurance, and open source contributions. Connect with us at https://linktr.ee/lavenderfive.",
       "website": "https://www.lavenderfive.com/",
       "twitter": "https://twitter.com/lavender_five"
@@ -515,7 +723,7 @@
     {
       "id": "0x34D68dFFa8cFe02Dd9C480b8bfB7C3A9ED3fc24a",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/rhino.png",
-      "name": " RHINO 🦏",
+      "name": "RHINO 🦏",
       "description": "An Active, Independent and Secure Blockchain Validator. We deliver redundant and geo-distributed infrastructure at-scale for Aptos, Sei, Chainlink, Ethereum, and Cosmos",
       "website": "https://rhinostake.com",
       "twitter": "https://twitter.com/rhinostake"
@@ -545,7 +753,7 @@
       "twitter": "https://www.twitter.com/flipsidecrypto"
     },
     {
-      "id": "0x93F64bA2948914d65Cd227c3501E22C93EBee19f",
+      "id": "0xDE8DF6cD1908D23f894B4cf5F8878EBd39DD4c1b",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Brightlystake-logo.png",
       "name": "Brightlystake",
       "description": "Stake with Confidence",
@@ -578,7 +786,7 @@
     },
     {
       "id": "0x1ab189B7801140900C711E458212F9c76F8dAC79",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Lugahills.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Lugahill_square.png",
       "name": "Luganodes",
       "description": "Swiss-Operated Institutional Grade Staking Provider",
       "website": "https://luganodes.com",
@@ -601,7 +809,7 @@
       "twitter": ""
     },
     {
-      "id": "0xF8E73371C8C79358CA0140579B553F0A8D5A19A3",
+      "id": "0x6A11E320a01E30eD762ef0Fa7da03812924C6CD1",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/blrd.gif",
       "name": "BLRD",
       "description": "BLRD is a subsidiary of GREE, a Japanese game company.",
@@ -615,6 +823,14 @@
       "description": "Your professional, global PoS validator. Delegate, earn, and join our journey to a golden blockchain.",
       "website": "https://www.kintsugi.tech",
       "twitter": "https://x.com/kintsugi_tech"
+    },
+    {
+      "id": "0x33A57eE044f0778a8C46CdA61C67a54fB322fe7e",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/GoldenRatioStakingLogo.png",
+      "name": "Golden Ratio Staking",
+      "description": "Bare Metal Interchain Relayer and Validator. Powered by the most beautiful number in Cosmos!",
+      "website": "https://www.goldenstaking.com",
+      "twitter": "https://x.com/GoldenStaking"
     },
     {
       "id": "0x20FB4a3366bC54a981F7E6173e52EA645C825679",
@@ -641,7 +857,7 @@
       "twitter": "https://www.twitter.com/dsrvlabs"
     },
     {
-      "id": "0x4A32ed6B31527d3fbF5184cb96b0E3dBeb9328c9",
+      "id": "0x3A554156aeA1921Abb277F63D6109cA81B530A3E",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Angelhack.jpg",
       "name": "Angelhack",
       "description": "World's Leader in Hackathons and Developer Relations",
@@ -673,7 +889,7 @@
       "twitter": "https://x.com/nodeguardians"
     },
     {
-      "id": "0x24A6EE555CD835C43992008C35DFAAB3323BAB21",
+      "id": "0x6bcBe50912a51c4d956444CCbd2F3e9dAA217CC1",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/chorus_one.svg",
       "name": "Chorus One",
       "description": "Secure Berachain and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
@@ -737,11 +953,155 @@
     },
     {
       "id": "0x364020282B9A82f6Be32fd20Ff829b7F0AacD118",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BlockPI%20Network.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BlockPI-Network.jpg",
       "name": "BlockPI Network",
       "description": "Distributed multi-chain acceleration layer. Solving the RPC requests congestion problem with infinite scalability.",
       "website": "https://blockpi.io/",
       "twitter": "https://twitter.com/RealBlockPI"
+    },
+    {
+      "id": "0x63Ba2DD43EA2DD8e6C8B9dfEf8940d4bFd4682D3",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/OKXEarn.png",
+      "name": "OKX Earn",
+      "description": "OKX Earn serves as a one-stop shop for all the decentralised earning options available on the OKX platform and we are the leading staking service provider for blockchain projects",
+      "website": "https://www.okx.com/",
+      "twitter": "https://x.com/okx"
+    },
+    {
+      "id": "0xb38eefa932aea6468aebf42320163c497104b0bd",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Moni.png",
+      "name": "Moni",
+      "description": "Your good neighbourhood validator by Moni. Moni is an ecosystem of analytical tools and a community of researchers, investors, and degens.",
+      "website": "https://getmoni.io/",
+      "twitter": "https://x.com/getmoni_io"
+    },
+    {
+      "id": "0x35DaAEB5B592d963D6B3b5f2f7EB71e259C96f98",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/gumi.png",
+      "name": "gumi",
+      "description": "One of the largest Japanese game publisher.As pioneers in the creation of entertainment using new technologies, gumi will continue to deliver surprises and excitement to the world.Creating a new business ecosystem through decentralization and capitalization of digital data.",
+      "website": "https://gu3.co.jp/en/blockchain/",
+      "twitter": "https://x.com/gumi_oshi3_en"
+    },
+    {
+      "id": "0x1e7e272fc62cD56cC3d8Fa29e6FF0831F6B91F1c",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/CoinSummer.png",
+      "name": "CoinSummerLabs",
+      "description": "Backed by crypto-native degens, CoinSummer is a trusted liquidity provider, staking validator, and AVS operator supporting the crypto and DeFi evolution.",
+      "website": "https://coinsummer.io",
+      "twitter": "https://twitter.com/CoinSummerLabs"
+    },
+    {
+      "id": "0x8b59F2F0a9Fc5A994756F5dc76f16d047434C413",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/rockawayxinfra.png",
+      "name": "RockawayX Infra",
+      "description": "RockawayX Infra is an institution-grade bare-metal staking operator",
+      "website": "https://rockawayx.com/infrastructure",
+      "twitter": "https://x.com/RockawayX_Infra"
+    },
+    {
+      "id": "0x5f639f8E6c120F0497DBdA309F8CA5be9113aB01",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hashkey.png",
+      "name": "HashKey Cloud",
+      "description": "Cloud for WEB3 More Than Staking",
+      "website": "https://www.hashkey.cloud/",
+      "twitter": "https://x.com/HashKeyCloud"
+    },
+    {
+      "id": "0x93174B2DaD595F35582cC62FCBf96b86709863D5",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakefish.png",
+      "name": "stakefish",
+      "description": "We are the leading staking service provider for blockchain projects. Join our community to help secure networks and earn rewards. Stake. Earn. Relax.",
+      "website": "https://stake.fish/",
+      "twitter": "https://twitter.com/stakefish"
+    },
+    {
+      "id": "0x93eDebDf3Cab2628cbB4Bf0B7C65d336348414d4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hyperblocks.jpg",
+      "name": "Hyperblocks",
+      "description": "Secure the network and earn rewards with Hyperblocks.pro, one of the first companies in the world fully focused on Proof Of Stake protocols",
+      "website": "https://hyperblocks.pro/",
+      "twitter": "https://x.com/hyper_blocks"
+    },
+    {
+      "id": "0xB791098b00AD377B220f91d7878d19e441388eD8",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/TTT.png",
+      "name": "TTT 🇻🇳",
+      "description": " Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market. ",
+      "website": "https://tienthuattoan.com",
+      "twitter": "https://twitter.com/TTTcapital"
+    },
+    {
+      "id": "0x62124214126Ff5e69fC9579eeF5ef4C0024c31CC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Blockdaemon.png",
+      "name": "Blockdaemon",
+      "description": "Blockdaemon provides maximum uptime for the Berachain network so that you can be confident your node will be there, ready and secure, for optimal reward generation. Contact us to stake on Berachain today.",
+      "website": "https://www.blockdaemon.com/",
+      "twitter": "https://twitter.com/BlockdaemonHQ"
+    },
+    {
+      "id": "0x7b75F753c1677502d878f8924d5a9dBC54292BF1",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/validationcloud.png",
+      "name": "Validation Cloud",
+      "description": "Validation Cloud is a Web3 platform that delivers elite, high-performance node and staking infrastructure.",
+      "website": "https://www.validationcloud.io",
+      "twitter": "https://x.com/ValidationCloud"
+    },
+    {
+      "id": "0x1cD956d95bf46d71828661f8efd1AEaC9F052A71",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/P2P.png",
+      "name": "P2P.ORG - P2P Validator",
+      "description": "P2P.org Provides Non-Custodial Staking Services For Professional Investors",
+      "website": "https://p2p.org/",
+      "twitter": "https://x.com/P2Pvalidator"
+    },
+    {
+      "id": "0x3AA99C396Ce33dB6E546793BeE005512f2E28e2b",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/twinstake.jpg",
+      "name": "Twinstake",
+      "description": "Twinstake is an institutional-grade, non-custodial staking provider designed and built in collaboration with leaders in the digital assets space. The platform offers industry leading performance, institutional-grade security and uncompromising Know Your Client (KYC) procedures.",
+      "website": "https://twinstake.io",
+      "twitter": "https://x.com/twinstake_io"
+    },
+    {
+      "id": "0x1A594e7aCb60a4fA0C9d7525695ef7524D047525",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1723065834/src/assets/brown-bear.png",
+      "name": "Brownstake",
+      "description": "Brownstake provides staking services for all friends at high rates and low returns.",
+      "website": "https://www.brownbear.com/",
+      "twitter": "https://x.com/BrownBear__Bear"
+    },
+    {
+      "id": "0xcE8A09bAa9f732649f620E8b7dc1356d649CF5Ed",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/pearl.png",
+      "name": "Pearl",
+      "description": "",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xD25E4b02C09AD1c6A01a59C75929A4e62647754B",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bedrock-logo.png",
+      "name": "BedRock",
+      "description": "The largest Asian-based institutional grade staking and RPC provider.",
+      "website": "https://www.bedrock.technology",
+      "twitter": "https://x.com/Bedrock_DeFi"
+    },
+    {
+      "id": "0xCA8042d73B82e6aA4bCB37Ad520c36549D136819",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/amber.jpg",
+      "name": "Amber Group",
+      "description": "Amber is building the future of digital assets",
+      "website": "https://www.ambergroup.io/",
+      "twitter": "https://x.com/ambergroup_io"
+    },
+    {
+      "id": "0xD6203addb3a895008777fb2bF8930c6323d6Dbe5",
+      "logoURI": "https://res.cloudinary.com/dvcbkhryu/image/upload/v1730431515/Pump_BTC_logo_pjqzyc.png",
+      "name": "PumpBTC",
+      "description": "PumpBTC serves as a Liquid Staking Solution for Babylon. PumpBTC aims to help BTC holders maximize yields through Babylon's staking",
+      "website": "https://pumpbtc.xyz",
+      "twitter": "https://x.com/Pumpbtcxyz"
     }
   ]
 }

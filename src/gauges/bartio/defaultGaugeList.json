@@ -2,6 +2,24 @@
   "name": "Berachain Bartio Default Gauge List",
   "products": [
     {
+      "name": "BurrBear",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/burrbear.png",
+      "url": "https://app.burrbear.io",
+      "description": "Explore DeFi liquidity pools or create your own. Provide liquidity to accumulate yield from swap fees while retaining your token exposure as prices move."
+    },
+    {
+      "name": "Beraborrow",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/beraborrow.png",
+      "url": "https://www.beraborrow.com",
+      "description": "Unlocking Instant liquidity for Berachain assets through the first PoL powered stablecoin NECT."
+    },
+    {
+      "name": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak.jpg",
+      "url": "https://www.kodiak.finance",
+      "description": "Native Liquidity Hub"
+    },
+    {
       "name": "HONEY",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "url": "https://bartio.honey.berachain.com",
@@ -24,9 +42,105 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/berps.png",
       "url": "https://bartio.berps.berachain.com",
       "description": "Experience the thrill of high leverage trading, tailored for both novices and seasoned traders. With an impressive 100x leverage."
+    },
+    {
+      "name": "ZERU",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru.png",
+      "url": "https://zeru.finance",
+      "description": "Full-stack DeFi marketplace that makes looping easy and efficient; powered by a 100% onchain, decentralized credit infrastructure."
+    },
+    {
+      "name": "WEBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/webera.png",
+      "url": "https://www.webera.finance",
+      "description": "WeBera is a permissionless yield abstraction layer designed to simplify participation in DeFi on the Berachain ecosystem."
+    },
+    {
+      "name": "Junky Ursas",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
+      "url": "https://junkyursas.com",
+      "description": "Junky Ursas is the premier GambleFi protocol on Berachain. We are building fun onchain games with ability to provide liquidity to the house!"
+    },
+    {
+      "name": "HOLDSTATION",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/holdstation.png",
+      "url": "https://holdstation.exchange",
+      "description": "Account Abstraction Smart Wallet & Perpetual DEX."
     }
   ],
   "gauges": [
+    {
+      "receiptTokenAddress": "0x6AcBBedEcD914dE8295428B4Ee51626a1908bB12",
+      "vaultAddress": "0x7a6b92457e7D7e7a5C1A2245488b850B7Da8E01D",
+      "name": "LBGT-WBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/lbgt-wbera-burrbear.png",
+      "product": "BurrBear",
+      "url": "https://app.burrbear.io/#/bartio/pool/0x6acbbedecd914de8295428b4ee51626a1908bb12000000000000000000000010"
+    },
+    {
+      "receiptTokenAddress": "0xf74a682b45F488DF08a77Dc6aF07364e94e4ED98",
+      "vaultAddress": "0x3f4fe6723AfbB97C9Cc51e08A5d266A96f631a9D",
+      "name": "HONEY-STGUSDC-NECT",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey-stgusdc-nect.png",
+      "product": "BurrBear",
+      "url": "https://app.burrbear.io"
+    },
+    {
+      "receiptTokenAddress": "0xB67D60fc02E0870EdDca24D4fa8eA516c890152b",
+      "vaultAddress": "0xEF55f90b05f719a2760A70cB1462Ff00B90E28C1",
+      "name": "uniBTC-WBTC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/unibtc-wbtc.jpg",
+      "product": "Kodiak",
+      "url": "https://app.kodiak.finance/#/liquidity/islands/0xb67d60fc02e0870eddca24d4fa8ea516c890152b?chain=berachain_bartio"
+    },
+    {
+      "receiptTokenAddress": "0xa51afAF359d044F8e56fE74B9575f23142cD4B76",
+      "vaultAddress": "0x1992b26E2617928966B4F8e8eeCF41C6e7A77010",
+      "name": "PAW-HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/pawhoney.png",
+      "product": "BEX",
+      "url": "https://bartio.bex.berachain.com/pool/0xa51afaf359d044f8e56fe74b9575f23142cd4b76"
+    },
+    {
+      "receiptTokenAddress": "0x63b0EdC427664D4330F72eEc890A86b3F98ce225",
+      "vaultAddress": "0x5693809338Ae09481B5Da3A916d1cD1193F1B99A",
+      "name": "NECT-HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey-nect.png",
+      "product": "Kodiak",
+      "url": "https://www.kodiak.finance"
+    },
+    {
+      "receiptTokenAddress": "0x3a7f6f2F27f7794a7820a32313F4a68e36580864",
+      "vaultAddress": "0x72e222116fC6063f4eE5cA90A6C59916AAD8352a",
+      "name": "sNECT",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/sNECT.png",
+      "product": "Beraborrow",
+      "url": "https://www.beraborrow.com/"
+    },
+    {
+      "receiptTokenAddress": "0xb73deE52F38539bA854979eab6342A60dD4C8c03",
+      "vaultAddress": "0xe5519D97eA854291c35a494b28929fA7abEf12e8",
+      "name": "HONEY-USDC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak-honey-usdc.png",
+      "product": "Kodiak",
+      "url": "https://www.kodiak.finance"
+    },
+    {
+      "receiptTokenAddress": "0xE5A2ab5D2fb268E5fF43A5564e44c3309609aFF9",
+      "vaultAddress": "0x175e2429bCb92643255abCbCDF47Fff63F7990CC",
+      "name": "YEET-WBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak-yeet-wbera.png",
+      "product": "Kodiak",
+      "url": "https://www.kodiak.finance"
+    },
+    {
+      "receiptTokenAddress": "0x7fd165B73775884a38AA8f2B384A53A3Ca7400E6",
+      "vaultAddress": "0x7b15eeC57C60f8B68dF2b143c2CA5a772E787e86",
+      "name": "iBGT-WBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak-ibgt-wbera.png",
+      "product": "Kodiak",
+      "url": "https://www.kodiak.finance"
+    },
     {
       "receiptTokenAddress": "0x1339503343be5626B40Ee3Aee12a4DF50Aa4C0B9",
       "vaultAddress": "0x2E8410239bB4b099EE2d5683e3EF9d6f04E321CC",
@@ -51,11 +165,99 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honeybera.png",
       "product": "BEX",
       "url": "https://bartio.bex.berachain.com/pool/0xd28d852cbcc68DCEC922f6d5C7a8185dBaa104B7"
+    },
+    {
+      "receiptTokenAddress": "0xD69ADb6FB5fD6D06E6ceEc5405D95A37F96E3b96",
+      "vaultAddress": "0xe3b9B72ba027FD6c514C0e5BA075Ac9c77C23Afa",
+      "name": "HONEY-USDC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-USDC.png",
+      "product": "BEX",
+      "url": "https://bartio.bex.berachain.com/pool/0xD69ADb6FB5fD6D06E6ceEc5405D95A37F96E3b96"
+    },
+    {
+      "receiptTokenAddress": "0xfbE71d98f9D2c658d52a2d72994c717637C3ddA1",
+      "vaultAddress": "0x8288Ab28D6196cA4E89269B8644A146E493E23B3",
+      "name": "HONEY-WETH",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-WETH.png",
+      "product": "BEX",
+      "url": "https://bartio.bex.berachain.com/pool/0x50f7d4Da89F720FBFB35bE369F34c6b51e2CaDa1"
+    },
+    {
+      "receiptTokenAddress": "0x14ee0a8dcd1714781aa0d026f46fc7f77b73c01d",
+      "vaultAddress": "0x59F735C465D9972b57BCcD8339de25cA209CA044",
+      "name": "HONEY-WBTC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-WBTC.png",
+      "product": "BEX",
+      "url": "https://bartio.bex.berachain.com/pool/0x14ee0a8dcd1714781aa0d026f46fc7f77b73c01d"
+    },
+    {
+      "receiptTokenAddress": "0x28feC64EaBc1e4Af7f5cD33d2bd20b01D5E8f203",
+      "vaultAddress": "0x12F45203b4dF96106fb18d557EE3224A4dC65637",
+      "name": "WBERA-tHPOT",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera-thpot.jpg",
+      "product": "HONEYPOT FINANCE",
+      "url": "https://honeypotfinance.xyz"
+    },
+    {
+      "receiptTokenAddress": "0x12Afd7A3324B689e32eEa71902DCbA5ED72Ee67E",
+      "vaultAddress": "0x3E1FfDD1AD1e4774693CBCCdF9C737De8713D984",
+      "name": "zberaHONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zberaHONEY.png",
+      "product": "ZERU",
+      "url": "https://zeru.finance"
+    },
+    {
+      "receiptTokenAddress": "0x7a560f7336D75787F5DD12ea7082fa611c3F5dDB",
+      "vaultAddress": "0x016044304A7e7Df23630D4B5796176097C6bd409",
+      "name": "HONEY-ZERU-LP",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru-honey.png",
+      "product": "ZERU",
+      "url": "https://zeru.finance"
+    },
+    {
+      "receiptTokenAddress": "0x556b758AcCe5c4F2E1B57821E2dd797711E790F4",
+      "vaultAddress": "0x86DA232f6A4d146151755Ccf3e4555eadCc24cCF",
+      "name": "weHONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/weHONEY.png",
+      "product": "WEBERA",
+      "url": "https://www.webera.finance"
+    },
+    {
+      "receiptTokenAddress": "0x2405296f156f3e5a65fb967b153fe58bf2c6eccf",
+      "vaultAddress": "0xac9ca566459709931Bc869B43364b7445eaa4696",
+      "name": "NOME-STABLE-LP",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NOME.png",
+      "product": "NOME",
+      "url": "https://nome.gg"
+    },
+    {
+      "receiptTokenAddress": "0xdCeBAf53b18986bdE2aEb400a9acC3341Bb6ce3A",
+      "vaultAddress": "0x6582414E830d91C8016C10ceD72157106F908145",
+      "name": "juJNKY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
+      "product": "Junky Ursas",
+      "url": "https://junkyursas.com"
+    },
+    {
+      "receiptTokenAddress": "0xfcA4e833cb73d75a0EC64B250F05BEf71810CfD0",
+      "vaultAddress": "0x6c693bB44dF70F6AF836296e3D55DF47F7973345",
+      "name": "juBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/jubera.png",
+      "product": "Junky Ursas",
+      "url": "https://junkyursas.com"
+    },
+    {
+      "receiptTokenAddress": "0xb82aa9bba5b9A02B53BE9F9a048c7391eC7da600",
+      "vaultAddress": "0x600bB8bA399da8fB33F636339Ce13aA056B53197",
+      "name": "HSHONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hsHONEYGauge.png",
+      "product": "Holdstation",
+      "url": "https://holdstation.exchange/"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

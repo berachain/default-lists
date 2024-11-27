@@ -40,6 +40,15 @@
   "tokens": [
     {
       "chainId": 80084,
+      "address": "0x92abCCEdccC722D2a2c14fc602428983164f4735",
+      "symbol": "CANA",
+      "name": "Beracana Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/cana.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0x2206182A4264bcE0663681448b24Fc6781Fc8E40",
       "symbol": "BULLA",
       "name": "Bulla token",

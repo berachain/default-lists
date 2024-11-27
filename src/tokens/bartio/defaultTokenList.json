@@ -49,6 +49,15 @@
     },
     {
       "chainId": 80084,
+      "address": "0xE5FAa69DEF26b3875381FCD653205C3DBf5e9234",
+      "symbol": "CANAHONEY",
+      "name": "Cana Honey",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/canahoney.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0x2206182A4264bcE0663681448b24Fc6781Fc8E40",
       "symbol": "BULLA",
       "name": "Bulla token",

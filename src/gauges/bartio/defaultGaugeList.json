@@ -66,6 +66,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/holdstation.png",
       "url": "https://holdstation.exchange",
       "description": "Account Abstraction Smart Wallet & Perpetual DEX."
+    },
+    {
+      "name": "HONEYPOT FINANCE",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/tHpot.png",
+      "url": "https://honeypotfinance.xyz",
+      "description": "HONEYPOT FINANCE is a Proof-of-Liquidity (PoL) accelerator combining a fair launchpad with a secure DEX."
     }
   ],
   "gauges": [
@@ -195,6 +201,14 @@
       "vaultAddress": "0x12F45203b4dF96106fb18d557EE3224A4dC65637",
       "name": "WBERA-tHPOT",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera-thpot.jpg",
+      "product": "HONEYPOT FINANCE",
+      "url": "https://honeypotfinance.xyz"
+    },
+    {
+      "receiptTokenAddress": "0xb6a43168FFB37e03E48A723fCB3895aE7d596078",
+      "vaultAddress": "0x797D8d8b31F21f1cDc0e1eA3F47562472429F881",
+      "name": "pHpot",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/pHpot.jpg",
       "product": "HONEYPOT FINANCE",
       "url": "https://honeypotfinance.xyz"
     },

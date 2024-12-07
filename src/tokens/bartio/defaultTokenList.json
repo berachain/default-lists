@@ -238,6 +238,15 @@
     },
     {
       "chainId": 80084,
+      "address": "0xfc5e3743E9FAC8BB60408797607352E24Db7d65E",
+      "symbol": "pHpot",
+      "name": "Pottard Honeypot",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/pHpot.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0xa0525273423537BC76825B4389F3bAeC1968f83F",
       "symbol": "JNKY",
       "name": "Junky Ursas LFG",

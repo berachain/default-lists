@@ -253,6 +253,14 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hsHONEYGauge.png",
       "product": "Holdstation",
       "url": "https://holdstation.exchange/"
+    },
+    {
+      "receiptTokenAddress": "0x74e852a4f88bfbeff01275bb95d5ed77f2967d12",
+      "vaultAddress": "0xB494C42b5FB24cC2B7eEaD56B1c087C76ec74255",
+      "name": "MIM-HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/mim-honey.png",
+      "product": "Kodiak",
+      "url": "https://app.kodiak.finance/#/liquidity/pool/0x74e852a4f88bfbeff01275bb95d5ed77f2967d12?chain=berachain_bartio"
     }
   ],
   "version": {

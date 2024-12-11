@@ -361,6 +361,15 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/dnxsac1ef/image/upload/raw/upload/src/hyt.png",
       "tags": ["featured"]
+      },
+      {
+      "chainId": 80084,
+      "address": "0x08B918dD18E087893bb9d711d9E0BBaA7a63Ef63",
+      "symbol": "MIM",
+      "name": "Magic Internet Money",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/mim.png",
+      "tags": ["stablecoin", "featured"]
     }
   ],
   "version": {

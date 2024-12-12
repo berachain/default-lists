@@ -2,14 +2,6 @@
   "name": "Berachain Bartio Default Gauge List",
   "products": [
     {
-      "address": "0xd351940fd17c33BB18B6fA7982e376aa8f3d29ab",
-      "name": "DIRAC-HONEY",
-      "logoURI": "https://dirac.finance/logos/dirac-logos/dirac-honey.jpeg",
-      "url": "https://bartio.station.berachain.com/gauge/0xd351940fd17c33BB18B6fA7982e376aa8f3d29ab",
-      "categoryName": "Kodiak Liquidity Pool",
-      "categoryIcon": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak.jpg"
-    },
-    {
       "name": "BurrBear",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/burrbear.png",
       "url": "https://app.burrbear.io",
@@ -77,6 +69,14 @@
     }
   ],
   "gauges": [
+    {
+      "receiptTokenAddress": "0x1Afe9c399B40A65C783049E732d7Ad5D37e68F78",
+      "vaultAddress": "0xd351940fd17c33BB18B6fA7982e376aa8f3d29ab",
+      "name": "DIRAC-HONEY",
+      "logoURI": "https://dirac.finance/logos/dirac-logos/dirac-honey.jpeg",
+      "product": "Kodiak",
+      "url": "https://www.kodiak.finance"
+    },
     {
       "receiptTokenAddress": "0x6AcBBedEcD914dE8295428B4Ee51626a1908bB12",
       "vaultAddress": "0x7a6b92457e7D7e7a5C1A2245488b850B7Da8E01D",

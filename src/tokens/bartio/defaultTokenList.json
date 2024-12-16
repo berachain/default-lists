@@ -310,6 +310,13 @@
     },
     {
       "chainId": 80084,
+      "address": "0x0ae9d176d3156835b501C530Faee28a51a43c9a6",
+      "symbol": "BRLY",
+      "name": "Berally",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/brly.png",
+      "tags": ["featured"]
+    },
       "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
       "symbol": "suUSD",
       "name": "Sumerian USD",

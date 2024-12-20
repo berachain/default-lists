@@ -66,6 +66,33 @@
       "tags": ["featured"]
     },
     {
+      "chainId": 80084,
+      "address": "0x3266cC3C869c27d0937b02D5437c78DeA1740676",
+      "symbol": “RAGA”,
+      "name": “Raga governance Token",
+      "decimals": 18,
+      "logoURI": "https://lh3.googleusercontent.com/d/1B5kMpHGL7JW_PH4jFc32Cn2sNnEb_UNv",
+      "tags": ["featured"]
+    },
+   {
+      "chainId": 80084,
+      "address": "0xD19962A4d38aFe8d004fE8bE797D4A31A68aCeB6",
+      "symbol": “nETH”,
+      "name": “Native Nexus ETH”,
+      "decimals": 18,
+      "logoURI": "https://lh3.googleusercontent.com/d/1IJM_0vehoERBA7GasgcealKsNDYJVd3J",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x10E7B3c5b236D6d5f27A0b4aA666d72c167C197e",
+      "symbol": “nUSD”,
+      "name": “Native Nexus USD”,
+      "decimals": 18,
+      "logoURI": "https://lh3.googleusercontent.com/d/1kAO_2Cw_k1XS-62FkzO3dONMwCB31woF",
+      "tags": ["featured"]
+    },
+    {
       "chainId": 80086,
       "address": "0x9F43e40093327697Ff92d4b353D0A7B88b0DbBb6",
       "symbol": "BUDS",

@@ -18,7 +18,7 @@ assignees: ""
     "name": "Validator One",
     "description": "ooga booga validator one",
     "website": "https://www.google.com",
-    "twitter": "https://www.twitter.com"
+    "twitter": "https://www.x.com"
 },
 ```
 

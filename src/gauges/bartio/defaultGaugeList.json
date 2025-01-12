@@ -2,6 +2,12 @@
   "name": "Berachain Bartio Default Gauge List",
   "products": [
     {
+      "name": "Bulla",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bulla.png",
+      "url": "https://www.bulla.exchange/",
+      "description": "Native Liquidity Marketplace on Berachain."
+    },
+    {
       "name": "BurrBear",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/burrbear.png",
       "url": "https://app.burrbear.io",
@@ -69,6 +75,14 @@
     }
   ],
   "gauges": [
+    {
+      "receiptTokenAddress": "0x4850d96222e7c6138b47071faa356baa232a7326",
+      "vaultAddress": "0xf35E03067177Ce22D05b2Ad8E4C4E704110bFd81",
+      "name": "HONEY-WBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey-wbera.png",
+      "product": "Bulla",
+      "url": "https://app.gamma.xyz/vault/bulla/bartio-testnet/details/honey-wbera-narrow"
+    },
     {
       "receiptTokenAddress": "0x1Afe9c399B40A65C783049E732d7Ad5D37e68F78",
       "vaultAddress": "0xd351940fd17c33BB18B6fA7982e376aa8f3d29ab",

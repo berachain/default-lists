@@ -40,6 +40,15 @@
   "tokens": [
     {
       "chainId": 80084,
+      "address": "0x157Ab16d344727510E6BC3B294E0824a6a6CAAfD",
+      "symbol": "WAGMI",
+      "name": "WAGMI",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/wagmi.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0x277aaDBd9ea3dB8Fe9eA40eA6E09F6203724BdaE",
       "symbol": "DIRAC",
       "name": "Dirac Finance Token",

@@ -261,6 +261,13 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hsHONEYGauge.png",
       "product": "Holdstation",
       "url": "https://holdstation.exchange/"
+    },{
+      "receiptTokenAddress": "0xb18CEC4160E5310e79AEf0d06a8df223A35599cD",
+      "vaultAddress": "0xC4f202b367FCB32F16305bd445E6AB4b445cb738",
+      "name": "tTERP",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/tTERP.png",
+      "product": "tTERP",
+      "url": "https://terplayer.org/"
     }
   ],
   "version": {

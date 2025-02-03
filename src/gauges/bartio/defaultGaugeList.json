@@ -70,6 +70,14 @@
   ],
   "gauges": [
     {
+      "receiptTokenAddress": "0x9a8c3F88f20399789156CDBFdF23B064a2403AD6",
+      "vaultAddress": "0x2b3A7Ff03ccAEA318780086d947BCf9123221191",
+      "name": "CANAHONEY-HONEY-STGUSDC-NECT",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/canahoney-honey-stgusdc-nect.png",
+      "product": "BurrBear",
+      "url": "https://app.burrbear.io/#/bartio/pool/0x9a8c3f88f20399789156cdbfdf23b064a2403ad6000000000000000000000014"
+    },
+    {
       "receiptTokenAddress": "0x1Afe9c399B40A65C783049E732d7Ad5D37e68F78",
       "vaultAddress": "0xd351940fd17c33BB18B6fA7982e376aa8f3d29ab",
       "name": "DIRAC-HONEY",

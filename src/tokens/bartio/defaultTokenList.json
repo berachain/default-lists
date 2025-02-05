@@ -343,6 +343,14 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/sumer.png",
       "tags": ["featured"]
+    },{
+      "chainId": 80084,
+      "address": "0xb18CEC4160E5310e79AEf0d06a8df223A35599cD",
+      "symbol": "tTERP",
+      "name": "Terplayer Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/tTERP.png",
+      "tags": ["featured"]
     },
     {
       "chainId": 80084,

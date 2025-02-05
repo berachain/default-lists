@@ -18,7 +18,7 @@ assignees: ""
     "name": "Validator One",
     "description": "ooga booga validator one",
     "website": "https://www.google.com",
-    "twitter": "https://www.twitter.com"
+    "twitter": "https://www.x.com"
 },
 ```
 
@@ -27,9 +27,9 @@ assignees: ""
 - name: validator name
 - description (optional): a short description for the validator
 - website (optional): a validator's website
-- twitter (optiona): a validator's twitter account url
+- twitter (optional): a validator's twitter account url
 
-this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/raw/upload/`.
+This repository  is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/raw/upload/`.
 
 an example :
 `https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/${asset_file_name}`

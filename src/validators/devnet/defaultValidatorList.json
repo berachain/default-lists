@@ -7,7 +7,7 @@
       "name": "Validator One",
       "description": "ooga booga validator one",
       "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
+      "twitter": "https://www.x.com"
     },
     {
       "id": "0xd3Ae0e18e61CF9469b2d182f290bD16faF64E91D",
@@ -15,7 +15,7 @@
       "name": "Validator Two",
       "description": "ooga booga validator two",
       "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
+      "twitter": "https://www.x.com"
     },
     {
       "id": "0x8c1DB3F893604C5398495A6d1E8Bc7DF18497803",
@@ -23,7 +23,7 @@
       "name": "Validator Three",
       "description": "ooga booga validator three",
       "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
+      "twitter": "https://www.x.com"
     },
     {
       "id": "0xc900E813ff49DD72356C8BE79065ee055Ec1C80b",
@@ -31,7 +31,7 @@
       "name": "Validator Four",
       "description": "ooga booga validator four",
       "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
+      "twitter": "https://www.x.com"
     },
     {
       "id": "0x06df557293c192c202A5f44372C302a145bb6cb6",
@@ -39,7 +39,7 @@
       "name": "Validator Five",
       "description": "ooga booga validator five",
       "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
+      "twitter": "https://www.x.com"
     }
   ]
 }

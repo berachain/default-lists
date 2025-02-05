@@ -6,8 +6,8 @@ labels: gauge request
 assignees: ""
 ---
 
-- [ ] I understand that gauge listing is not required to use the Berachain DEX.
-- [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the Berachain default gauge list.
+- [ ] I understand that gauge listing is not required to use the Berachain  DEX.
+- [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the Berachain  default gauge list.
 - [ ] I will not ping the Discord about this listing request.
 
 **Please follow the following format for your gauge.**
@@ -30,9 +30,9 @@ assignees: ""
 - Gauge Category Name (i.e. BEX Liquidity Pool):
 - Gauge Category Icon:
 
-this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/raw/upload/`.
+This  repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/raw/upload/`.
 
-an example :
+An example :
 `https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/${asset_file_name}`
 
 ℹ️ AFTER OPENING AN ISSUE, CREATE A BRANCH AND ADD YOUR CHANGES. WHEN READY, CREATE A PR AND LINK YOUR ISSUE IN THE PR 🚀

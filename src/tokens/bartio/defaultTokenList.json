@@ -237,6 +237,14 @@
       "tags": ["supply"]
     },
     {
+      "chainId": 80084 ,
+      "address": "0xb9f58e6fAD8674505320e3Fa9b13261BB2ABC37C",
+      "symbol": "BOBO",
+      "name": "BOBO the BERA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30388/standard/bobocoingeckologo.png?1723171516",
+      "tags": ["featured", "deposit"]
+    },
       "chainId": 80084,
       "address": "0xfc5e3743E9FAC8BB60408797607352E24Db7d65E",
       "symbol": "tHPOT",

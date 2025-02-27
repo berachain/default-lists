@@ -39,6 +39,15 @@
 
   "tokens": [
     {
+      "chainId": 80086,
+      "address": "0xa40E6433782Ffb18c8eEb16D201E331E37AbFB74",
+      "symbol": "XI",
+      "name": "XI Bera",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/xibera.png",
+      "tags": []
+    },
+    {
       "chainId": 80084,
       "address": "0x277aaDBd9ea3dB8Fe9eA40eA6E09F6203724BdaE",
       "symbol": "DIRAC",

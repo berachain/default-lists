@@ -1110,6 +1110,14 @@
       "description": "PumpBTC serves as a Liquid Staking Solution for Babylon. PumpBTC aims to help BTC holders maximize yields through Babylon's staking",
       "website": "https://pumpbtc.xyz",
       "twitter": "https://x.com/Pumpbtcxyz"
+    },
+    {
+      "id": "0xf6a4A6aCECd5311327AE3866624486b6179fEF97",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/piertwo_x_infrared.png",
+      "name": "Infrared by Pier Two",
+      "description": "This Pier Two validator is operated Infrared. Pier Two is an Australian-based, APAC-focused institutional staking provider. Operating highly performant hybrid cloud and bare metal infrastructure, with zonal redundancy. Our spirit bears are Koala Bears.",
+      "website": "https://piertwo.com/",
+      "twitter": "https://x.com/piertwo_com"
     }
   ]
 }
